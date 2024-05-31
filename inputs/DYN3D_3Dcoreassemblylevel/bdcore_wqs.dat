@@ -1,0 +1,23 @@
+# Path
+XSLIB_new/
+# NEUTRON GROUPS   DELAYED NEUTRONS GROUPS
+    2        6 
+#****************************************************
+   ENERGY LIMITS
+  2.0000E6   6.2500E-1  1.0000E-5 
+****************************************************
+#   NXSCORE    NXSREFL
+      2          1
+#****************************************************
+#   NAME    NUMBER OF BURNUP STATES number of pins
+2G_uo2.dat    1 289
+2G_gd.dat      1 289
+2G_XSEC_refl           1
+
+2G_uo2.dat    1 289
+2G_gd.dat      1 289
+
+  
+2G_uo2.dat    1 289
+2G_gd.dat      1 289
+
